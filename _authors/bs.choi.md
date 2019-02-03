@@ -1,5 +1,5 @@
 ---
-name: Byungseon Choi
+name: garveira
 title: 최병선
-image: /files/authors/bs.choi.jpg
+image: /files/authors/garveira.jpg
 ---

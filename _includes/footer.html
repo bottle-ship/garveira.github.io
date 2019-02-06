@@ -14,6 +14,13 @@
             </a>
         </li>
         {% endif %}
+        {% if site.naver %}
+        <li>
+            <a id="link-naver" href="https://blog.naver.com/{{ site.naver.username }}" target="_blank">
+                <span class="sr-only">naver</span>
+            </a>
+        </li>
+        {% endif %}
         {% if site.twitter %}
         <li>
             <a id="link-twitter" href="http://twitter.com/{{ site.twitter.username }}" target="_blank">

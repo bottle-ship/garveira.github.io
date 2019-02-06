@@ -385,6 +385,10 @@ for small screen(<720px):
     background-image: url(../images/pc/icon_face.png);
 }
 
+#link-naver {
+    background-image: url(../images/pc/icon_naver.png);
+}
+
 #link-twitter {
     background-image: url(../images/pc/icon_twit.png);
 }

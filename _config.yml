@@ -44,7 +44,7 @@ defaults:
     values:
       layout: tag
 
-exclude: [README.md, Gemfile, Gemfile.lock]
+exclude: [README.md, Gemfile, Gemfile.lock, run.bat]
 
 keep_files: [assets, files]
 github: [metadata]
@@ -64,3 +64,5 @@ facebook:
 #  username: kakaodev
 github_url:
   username: garveira
+naver:
+  username: cbs1985

@@ -14,13 +14,12 @@
     <ul class="search__results" id="results-container"></ul>
 
     <ul id="menu" class="nav">
-        <!--<li class="{% if page.url != '/opensource/' and page.url != '/openapi/' and page.url != '/events/' %} active {% endif %}"><a href="{{ base_path }}">방구석뮤지션</a></li>-->
         <li class="{% if page.url != '/opensource/' and page.url != '/openapi/' and page.url != '/events/' %} active {% endif %}"><a href="/">Blog</a></li>
         <!--<li class="{% if page.url != '/opensource/' and page.url != '/openapi/' and page.url != '/events/' %} active {% endif %}"><a href="{{ site.baseurl }}/tags/ai">AI Study</a></li>-->
         <!--<li class="{% if page.url != '/opensource/' and page.url != '/openapi/' and page.url != '/events/' %} active {% endif %}"><a href="{{ site.baseurl }}/tags/indoor.musician">방구석뮤지션</a></li>-->
         <li class="{% if page.url == '/lectures/' %} active {% endif %}"><a href="{{ base_path }}/lectures/">Lectures</a></li>
         <li class="{% if page.url == '/reference/' %} active {% endif %}"><a href="{{ base_path }}/reference/">Reference</a></li>
-        <!--<li class="{% if page.url == '/events/' %} active {% endif %}"><a href="{{ base_path }}/events/">기술행사</a></li>-->
+        <li class="{% if page.url == '/tags/' %} active {% endif %}"><a href="{{ base_path }}/tags/">Tags</a></li>
     </ul>
 </div>
 <!-- Script pointing to jekyll-search.js -->

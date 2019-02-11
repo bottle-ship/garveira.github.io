@@ -15,6 +15,6 @@ image: /files/covers/lecture.jpg
 
 ## 중급과정
 
-* [Stanford CS221|AI:Principles and techniques](http://web.stanford.edu/class/cs221/)
+* [Stanford CS221/AI:Principles and techniques](http://web.stanford.edu/class/cs221/)
 
 ---
